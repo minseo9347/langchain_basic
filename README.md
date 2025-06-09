@@ -8,6 +8,7 @@
 
 # 설치 라이브러리
 '''
+ - pip -m ipykernel install -- user -- name lc_env
  - pip install -Uq python-dotenv
  - pip install -Uq langchain langchain-openai
  - pip install langchain-google-genai
